@@ -2,6 +2,7 @@
 
 # install
 https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+https://nvidia.github.io/cuda-python/overview.html
 
 # notes
 ![](adobe-2012-desktop-compute-power.png)
